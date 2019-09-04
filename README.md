@@ -1,2 +1,2 @@
-# elasticsearchdemo
-elasticsearch Demo
+# elasticsearch_springboot_demo
+springboot 整合elasticsearch,实现基本的增删查改
